@@ -1,2 +1,2 @@
 # lec_database
-recture database
+lecture database
