@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /
 ---
 # MySQL集計関数の使用方法
