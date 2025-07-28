@@ -1,4 +1,4 @@
-theme: modernist
+theme: minima
 defaults:
   - scope:
       path: "MySQL.md"
