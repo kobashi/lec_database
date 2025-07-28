@@ -1,3 +1,8 @@
+---
+layout: home
+title: MySQL Homepage
+permalink: /
+---
 # MySQL集計関数の使用方法
 
 ## 1. 集計関数の基本（式を与えずに使用）
