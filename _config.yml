@@ -1,2 +1,8 @@
 theme: minima
-index: MySQL.md
+defaults:
+  - scope:
+      path: "MySQL.md"
+    values:
+      layout: home
+header_pages:
+  - MySQL.md
