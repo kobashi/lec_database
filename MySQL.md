@@ -1,4 +1,5 @@
 ---
+theme: jekyll-theme-cayman
 layout: home
 title: MySQL Homepage
 permalink: /
