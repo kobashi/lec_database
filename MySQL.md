@@ -1,7 +1,5 @@
 ---
-theme: jekyll-theme-cayman
 layout: home
-title: MySQL Homepage
 permalink: /
 ---
 # MySQL集計関数の使用方法
